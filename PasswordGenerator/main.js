@@ -19,6 +19,9 @@ const randomFunc = {
 generateEl.addEventListener('click', () => {
   const length = +lengthEl.value;
   const haslower = lowercaseEl.checked;
+  const hasUpper = uppercaseEl.checked;
+  const haslower = lowercaseEl.checked;
+  const haslower = lowercaseEl.checked;
 })
 
 
