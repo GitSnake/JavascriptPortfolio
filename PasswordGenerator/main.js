@@ -17,7 +17,7 @@ const randomFunc = {
 };
 
 generateEl.addEventListener('click', () => {
-  f
+  const length = +lengthEl.value;
 })
 
 
