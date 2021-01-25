@@ -16,7 +16,9 @@ const randomFunc = {
   symbol: getRandomSymbol
 };
 
-
+generateEl.addEventListener('click', () => {
+  f
+})
 
 
 // Generator Functions
