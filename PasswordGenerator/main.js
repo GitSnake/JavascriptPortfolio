@@ -21,7 +21,7 @@ generateEl.addEventListener('click', () => {
   const haslower = lowercaseEl.checked;
   const hasUpper = uppercaseEl.checked;
   const hasNumber = numbersEl.checked;
-  const haslower = lowercaseEl.checked;
+  const hasSymbol = symbolsEl.checked;
 })
 
 
