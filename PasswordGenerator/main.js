@@ -1,3 +1,13 @@
+const randomFunc = {
+  lower: getRandomLower,
+  upper: getRandomUpper,
+  number: getRandomNumber,
+  symbol: getRandomSymbol
+}
+
+
+
+
 // Generator Functions
 
 function getRandomLower(){
