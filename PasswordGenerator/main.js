@@ -29,7 +29,7 @@ generateEl.addEventListener('click', () => {
 
 // Generate Password Function
 
-function generatePassword() {
+function generatePassword(lower, number, symbol, length) {
   j
 }
 
