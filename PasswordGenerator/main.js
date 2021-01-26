@@ -37,7 +37,7 @@ generateEl.addEventListener('click', () => {
 
       const typesCount = lower + upper + number + symbol;
 
-      const typesArr = [];
+      const typesArr = [lower, upper, number, symbol];
   }
 
 });
