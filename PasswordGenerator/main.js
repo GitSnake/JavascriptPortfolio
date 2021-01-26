@@ -16,6 +16,7 @@ const randomFunc = {
   symbol: getRandomSymbol
 };
 
+// Generate Event Listen
 generateEl.addEventListener('click', () => {
   const length = +lengthEl.value;
   const hasLower = lowercaseEl.checked;
