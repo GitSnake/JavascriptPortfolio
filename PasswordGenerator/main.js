@@ -36,6 +36,8 @@ generateEl.addEventListener('click', () => {
       let generatePassword = '';
 
       const typesCount = lower + upper + number + symbol;
+
+      const typesArr = [];
   }
 
 });
