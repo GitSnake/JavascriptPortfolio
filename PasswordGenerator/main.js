@@ -27,6 +27,12 @@ generateEl.addEventListener('click', () => {
   resultEl.innerText = generatePassword(hasLower, hasUpper, hasNumber, hasSymbol, length);
 });
 
+// Generate Password Function
+
+function generatePassword() {
+  j
+}
+
 
 // Generator Functions
 
