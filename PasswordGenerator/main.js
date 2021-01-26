@@ -33,7 +33,9 @@ generateEl.addEventListener('click', () => {
 
     // 4. Add final pw to pw var and return
 
-    
+      let generatePassword = '';
+
+      const typesCount = lower + upper + number + symbol;
   }
 
 });
