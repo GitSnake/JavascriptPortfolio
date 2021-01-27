@@ -14,5 +14,10 @@ body{
   width: 100vw;
   display: flex;
   align-items: center;
-  justify-content: center;  
+  justify-content: center;
+}
+
+main{
+  padding: 2rem;
+  border-radius: 30px;
 }
